@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "SLANG",
+  "base_artist": "REAL-T",
+  "createdAt": "2026-01-05T07:35:58.380943Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Neighborhood Slang",
+      "artist": "Bone Thugs-n-Harmony",
+      "has_synced": true,
+      "path": "select/01_Neighborhood_Slang_Bone_Thugs-n-Harmony.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Slang Blade",
+      "artist": "Binary Star",
+      "has_synced": true,
+      "path": "select/02_Slang_Blade_Binary_Star.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Slang Blade (Intro)",
+      "artist": "Binary Star",
+      "has_synced": false,
+      "path": "select/03_Slang_Blade_(Intro)_Binary_Star.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "New Slang",
+      "artist": "The Shins",
+      "has_synced": true,
+      "path": "select/04_New_Slang_The_Shins.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Slang",
+      "artist": "Def Leppard",
+      "has_synced": true,
+      "path": "select/05_Slang_Def_Leppard.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "American Slang",
+      "artist": "The Gaslight Anthem",
+      "has_synced": true,
+      "path": "select/06_American_Slang_The_Gaslight_Anthem.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Slang of Ages",
+      "artist": "Steely Dan",
+      "has_synced": true,
+      "path": "select/07_Slang_of_Ages_Steely_Dan.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Slang",
+      "artist": "Def Leppard",
+      "has_synced": true,
+      "path": "select/08_Slang_Def_Leppard.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Slang",
+      "artist": "Def Leppard",
+      "has_synced": false,
+      "path": "select/09_Slang_Def_Leppard.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "New Slang",
+      "artist": "Luke Sital-Singh",
+      "has_synced": true,
+      "path": "select/10_New_Slang_Luke_Sital-Singh.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SLANG",
+      "artist": "REAL-T",
+      "has_synced": false,
+      "path": "select/pl_01_SLANG_REAL-T.txt"
+    }
+  ]
+}
